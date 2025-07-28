@@ -65,16 +65,17 @@
 
 ---
 
+
 <div align="center">
   <h3>📫 Contacto</h3>
   <p>
     <a href="mailto:91andresmunoz@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-91andresmunoz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/andres-munoz-dev/" target="_blank">
+    <a href="https://www.linkedin.com/in/andres-munoz-dev/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Mu%C3%B1oz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://wa.me/573138717169" target="_blank">
+    <a href="https://wa.me/573138717169" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/WhatsApp-+57%20313%208717169-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
   </p>
