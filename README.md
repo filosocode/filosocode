@@ -69,7 +69,7 @@
 <div align="center">
   <h3>📫 Contacto</h3>
   <p>
-    <a href="mailto:91andresmunoz@gmail.com">
+    <a href="https://mail.google.com/mail/?view=cm&to=91andresmunoz@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-91andresmunoz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/andresmu%C3%B1oz9126/" target="_blank" rel="noopener noreferrer">
@@ -80,5 +80,4 @@
     </a>
   </p>
 </div>
-
 
