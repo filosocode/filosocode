@@ -9,9 +9,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer%20%7C%20Python%20Lover%20%7C%20Serverless%20Thinker;Geospatial%20Data%20Nerd%20%7C%20Always%20Learning%20%F0%9F%93%9A;Connecting%20Tech%20with%20Critical%20Thinking%20%E2%9A%99%EF%B8%8F&font=Fira%20Code&center=true&width=600&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=%F0%9F%94%A7%20Backend%20Developer%20%7C%20Python%20Lover%20%7C%20Serverless%20Thinker;Geospatial%20Data%20Nerd%20%7C%20Always%20Learning%20%F0%9F%93%9A;Connecting%20Tech%20with%20Critical%20Thinking%20%E2%9A%99%EF%B8%8F&font=Fira%20Code&center=true&width=600&height=45">
   </a>
 </p>
+
 
 ---
 
