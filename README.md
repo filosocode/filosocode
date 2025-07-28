@@ -19,7 +19,7 @@
 - 📚 Estudiante de filosofía y software: mezclo pensamiento crítico con soluciones escalables.
 - ☁️ Aprendiendo soluciones con AWS, sistemas orientados a eventos y proyectos con impacto real.
 - 🚀 Actualmente perfeccionando soluciones en Python, FastAPI, y automatizaciones con Docker.
-- 🚁 Desarrollo de software embebido para drones usando Arduino IDE (lenguaje C++), incluyendo automatización de disparos, control de vuelo y sincronización con sensores.
+- 🚁 Desarrollo de software embebido para drones usando Arduino IDE (lenguaje C++), incluyendo automatización de obturaciónes 📷, control de vuelo y sincronización con sensores.
 - 🌐 Experiencia en soluciones IoT aplicadas a monitoreo geoespacial, integración de sensores, comunicación serie, y procesamiento de datos en tiempo real.
 
 ## 🛠 &nbsp;Tech Stack
