@@ -71,16 +71,14 @@
     <a href="mailto:91andresmunoz@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-91andresmunoz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/andres-munoz-dev/">
+    <a href="https://www.linkedin.com/in/andres-munoz-dev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Mu%C3%B1oz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://github.com/filosocode">
-      <img src="https://img.shields.io/badge/GitHub-filosocode-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://wa.me/573138717169">
-      <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <a href="https://wa.me/573138717169" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-+57%20313%208717169-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
   </p>
 </div>
+
 
 
